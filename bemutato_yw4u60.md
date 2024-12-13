@@ -1,7 +1,7 @@
 
 Projekt rövid leírása:
 
-Projektemben a „Historical Leaders” nevezetű adatbázist lehet tetszőlegesen módosítani böngészőn és Forms applikáción keresztül egyaránt. Lehetőségünk van új rekordokat felvinni az adatbázisba többféle módszerrel is, valamint törölni azokat. A projektben a Formsban ki is számoljuk, hogy egy adott listából kiválasztott vezető mennyi ideig volt hatalmon, mindezt egy egyszerű algoritmus segítségévle.
+Projektemben a Historical Leaders” nevezetű adatbázist lehet tetszőlegesen módosítani böngészőn és Forms applikáción keresztül egyaránt. Lehetőségünk van új rekordokat felvinni az adatbázisba többféle módszerrel is, valamint törölni azokat. A projektben a Formsban ki is számoljuk, hogy egy adott listából kiválasztott vezető mennyi ideig volt hatalmon, mindezt egy egyszerű algoritmus segítségévle.
 
 User Interface
 
